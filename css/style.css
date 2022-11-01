@@ -1,17 +1,16 @@
-:root
-{
-  --favcolor:rgb(255,182,193);
-}
-h1
-{
-    text-align: center;
-    color: var(--favcolor);
-    background-color: rgb(255,245,238);
-    font-size: 40pt;
-}
-section
-{
-    color: var(--favcolor);
-    background-repeat: no-repeat;
-    float: left;
-}
+<!DOCTYPE= html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css/main.css">
+    <meta charset="UTF-8">
+    <title>IDK</title>
+  </head>
+  <body>
+    <h1>IDK</h1>
+    <form action="https://www.google.com/search"
+    <label for="site">Site: </label>
+    <input type="text" id="site" name="as_sitesearch">
+    </form>
+  </body>
+<p><a href="index.html><img src=IDK alt="Home button"></a></p>
+</html>
