@@ -3,10 +3,10 @@
   <head>
     <link rel="stylesheet" href="css/main.css">
     <meta charset="UTF-8">
-    <title>IDK</title>
+    <title>Fun Searching</title>
   </head>
   <body>
-    <h1>IDK</h1>
+    <h1>Fun Searching</h1>
     <form action="https://www.google.com/search"
     <label for="site">Site: </label>
     <input type="text" id="site" name="as_sitesearch">
